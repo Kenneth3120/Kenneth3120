@@ -1,6 +1,6 @@
 Hi 👋 Myself Kenneth Rebello
 =================================================================================================
-Full Stack Web Developer
+UI/UX Developer
 ------------------------
 
 * 🌍  I'm based in Pune
